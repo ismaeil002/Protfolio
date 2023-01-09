@@ -1,0 +1,271 @@
+@media(max-width:761.98px){
+    .menu i{
+        color: #cf1f1f;
+        font-size: 25px;
+    }
+
+    .menu button{
+        outline: none;
+        border: none;
+    }
+
+    .menu button:focus{
+        box-shadow: none
+    }
+
+    .menu{
+        margin-top: 0px;
+        background-color: #000;
+    }
+
+    .menu ul{
+        margin-top: 20px;
+    }
+
+    .menu ul li{
+        margin-left: 0;
+        margin-bottom: 15px;  
+    }
+
+    .menu ul li a:hover::after{
+        opacity: 0;
+        width: 0;
+     }
+
+    .menu ul li a.active::after{
+        opacity: 0;
+        width: 0;
+    }
+
+    .banner_bg{
+        padding-top: 240px;
+    }
+
+    .banner_text{
+        text-align: center;
+    }
+
+    .banner_text h2{
+        font-size: 25px;
+    }
+    
+    .banner_text h1{
+        font-size: 55px;
+    }
+    
+    .banner_text p{
+        font-size: 13px;
+    }
+
+    .text_bg{
+        padding: 100px 0;
+    }
+
+    .texts i{
+        font-size: 130px;
+    }
+    .texts p{
+        font-size: 28px;
+    }
+
+    .wid_inne{
+        padding-top: 50px;
+    }
+
+    .wid_header h2{
+        padding-top: 80px;
+    }
+
+    .port_header h2{
+        margin-top: 50px;
+    }
+
+    .port_header h2{
+        margin-top: 50px;
+    }
+
+    .service_bg{
+        padding: 70px 0;
+    }
+    .service_header h2{
+        margin-top: 50px;
+    }
+    .ser_inner i{
+        font-size: 50px;
+    }
+
+    .ser_inner h4{
+        font-size: 16px;
+    }
+    .ser_inner h5{
+        font-size: 16px;
+    }
+
+    .blog_bg{
+        padding-top: 20px;
+    }
+
+    .blog_header h2{
+        margin-top: 00px;
+    }
+
+    .blog_text p{
+        margin-bottom: 50px;
+    }
+
+    .contact_bg{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .contact_item a{
+        font-size: 13px;
+    }
+
+    .footer_text a{
+        font-size: 10px;
+    }
+    
+}
+
+
+@media(min-width:762px) and (max-width:991.98px){
+    .menu i{
+        color: #cf1f1f;
+        font-size: 25px;
+    }
+
+    .menu button{
+        outline: none;
+        border: none;
+    }
+
+    .menu button:focus{
+        box-shadow: none
+    }
+
+    .menu{
+        margin-top: 0px;
+    }
+
+    .menu ul{
+        margin-top: 20px;
+    }
+
+    .menu ul li{
+        margin-left: 0;
+        margin-bottom: 15px;  
+    }
+
+    .menu ul li a:hover::after{
+        opacity: 0;
+        width: 0;
+     }
+
+    .menu ul li a.active::after{
+        opacity: 0;
+        width: 0;
+    }
+
+    .banner_bg{
+        padding-top: 240px;
+    }
+
+    .banner_text{
+        text-align: center;
+    }
+
+    .banner_text h2{
+        font-size: 25px;
+    }
+    
+    .banner_text h1{
+        font-size: 55px;
+    }
+    
+    .banner_text p{
+        font-size: 13px;
+    }
+
+    .text_bg{
+        padding: 100px 0;
+    }
+
+    .texts i{
+        font-size: 130px;
+    }
+    .texts p{
+        font-size: 28px;
+    }
+
+    .wid_inne{
+        padding-top: 50px;
+    }
+
+    .service_bg{
+        padding: 70px 0;
+    }
+    .ser_inner i{
+        font-size: 50px;
+    }
+
+    .ser_inner h4{
+        font-size: 15px;
+    }
+    .ser_inner h5{
+        font-size: 15px;
+    }
+
+    .blog_bg{
+        padding-top: 20px;
+    }
+
+    .contact_bg{
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .contact_item a{
+        font-size: 13px;
+    }
+
+    .footer_text a{
+        font-size: 10px;
+    }
+}
+
+@media(max-width:576px){
+    .banner_text h1{
+        padding: 5px 0 15px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 40px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    .banner_bg{
+        padding: 180px 0 100px;
+    }
+
+    #preloader span{
+        margin-top: 10px;
+    }
+
+    #preloader #preloader-inner {
+        left: 55%;
+    }
+
+    .footer_icon{
+        margin-top: 30px;
+        text-align: center !important;
+    }
+    
+    .footer_text{
+        text-align: center;
+    }
+
+}
+
+/*  */
+
